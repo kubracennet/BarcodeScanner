@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F68574B22A24B7C900153A77 /* DataScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F68574B12A24B7C900153A77 /* DataScannerView.swift */; };
 		F6D9FA742A2380390014600B /* AppViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D9FA732A2380390014600B /* AppViewModel.swift */; };
 		F6E1D71A2A2377D8007C4925 /* BarcodeScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E1D7192A2377D8007C4925 /* BarcodeScannerApp.swift */; };
 		F6E1D71C2A2377D8007C4925 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6E1D71B2A2377D8007C4925 /* ContentView.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F68574B12A24B7C900153A77 /* DataScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataScannerView.swift; sourceTree = "<group>"; };
 		F6D9FA732A2380390014600B /* AppViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppViewModel.swift; sourceTree = "<group>"; };
 		F6E1D7162A2377D8007C4925 /* BarcodeScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarcodeScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6E1D7192A2377D8007C4925 /* BarcodeScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerApp.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				F6E1D7192A2377D8007C4925 /* BarcodeScannerApp.swift */,
 				F6E1D71B2A2377D8007C4925 /* ContentView.swift */,
+				F68574B12A24B7C900153A77 /* DataScannerView.swift */,
 				F6D9FA732A2380390014600B /* AppViewModel.swift */,
 				F6E1D71D2A2377DF007C4925 /* Assets.xcassets */,
 				F6E1D7272A23799B007C4925 /* Info.plist */,
@@ -145,6 +148,7 @@
 				F6E1D71C2A2377D8007C4925 /* ContentView.swift in Sources */,
 				F6E1D71A2A2377D8007C4925 /* BarcodeScannerApp.swift in Sources */,
 				F6D9FA742A2380390014600B /* AppViewModel.swift in Sources */,
+				F68574B22A24B7C900153A77 /* DataScannerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
